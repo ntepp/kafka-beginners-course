@@ -1,0 +1,38 @@
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+workspace.xml
+
+# NetBeans
+nbproject/private/
+
+# m2
+.m2/repository/
+
+# Build output
+target/
+
+# Generated files
+**/target/generated-sources/**
+**/target/generated-test-sources/**
+**/target/classes/**
+
+# Test output
+**/target/test-classes/**
+**/target/surefire-reports/**
+
+# Log files
+**/logs/**
+
+# IDE-specific files
+.vscode/
+.DS_Store
